@@ -77,3 +77,15 @@ Registro do processo iterativo de extração de conhecimento via NotebookLM. O m
 2. [Checklist Técnico] "Gere um checklist de 5 itens para validar entrada LONG/SHORT em dólar, incluindo confluência de EMAs, VWAP e pressão de fluxo."
 3. [Gestão de Risco] "Explique como calcular stop técnico e tamanho de posição com base em afastamento de médias (57/114) e Deltas. Inclua fórmula de sizing."
 4. [Simulação de Cenário] "Se DI slope > 0.10, DXY caindo e VWAP como resistência, qual viés probabilístico e alvos dinâmicos? Fundamente com as fontes."
+
+
+💡 Integração com Projeto Pessoal: CandleZita IA
+Este caderno não é apenas teórico. Os conceitos validados foram implementados em um engine quantitativo real:
+ai_engine.py: Cálculo de EMAs em tempo real, análise de inclinação da curva DI (analyze_di_curve), projeção de Deltas (calculate_deltas), scoring probabilístico e geração de relatório operacional.
+servervoz.py: Dashboard web (Flask + SSE), narração automática via Edge TTS, alertas de proximidade a níveis críticos (PTAX, VWAP, Mapa do Dólar) e interface terminal com Rich.
+Indicadores NTSL (Profit Pro): 30+ ferramentas proprietárias (Quant Pressure, Quant SMC OB, Quant DI's Juros) que materializam a teoria em leitura de fluxo e zonas de liquidez.
+Necessidade de plataforma PROFIT PRO da Nelogica para completo funcionamento do projeto CandleZita IA. 
+O NotebookLM serviu como ponte entre teoria e código, acelerando a curadoria, validando lógica de indicadores e gerando documentação técnica estruturada.
+📝 Material educacional. Não constitui recomendação de investimento. Trading de derivativos envolve risco de perda superior ao capital inicial.
+🚀 Projeto desenvolvido como parte do Desafio de Projeto DIO | NotebookLM + AI Learning
+📝 Parte prática de estudos realizados para área de TI.
