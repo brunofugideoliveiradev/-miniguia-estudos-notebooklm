@@ -21,7 +21,7 @@ Material selecionado, validado e carregado no NotebookLM:
 | 2 | A taxa de câmbio de referência Ptax (BCB) | PDF | [🔗 Baixar](https://www.bcb.gov.br/conteudo/relatorioinflacao/EstudosEspeciais/EE042_A_taxa_de_cambio_de_referencia_Ptax.pdf) | Metodologia da PTAX, cálculo FRP0 e correlação com WDOFUT |
 | 3 | Curso B3: Futuro Mini de Dólar (WDO) | Web | [🔗 Acessar](https://edu.b3.com.br/w/mini-dolar) | Especificações contratuais, margens, horários e liquidação |
 | 4 | Fibonacci Retracement (Investopedia) | Web | [🔗 Acessar](https://www.investopedia.com/terms/f/fibonacciretracement.asp) | Conceito técnico, níveis 23.6%/38.2%/61.8% e projeção de alvos |
-| 5 | Indicadores Quantitativos "QUANT DÓLAR TRADER" | PDF | *(Arquivo próprio)* | Case prático: aplicação de pressão de fluxo, Deltas, SMC OB e VWAP dinâmica |
+| 5 | Indicadores Quantitativos "QUANT DÓLAR TRADER" | PDF | *([Arquivo próprio](https://github.com/brunofugideoliveiradev/-miniguia-estudos-notebooklm/blob/main/Indicadores-Quantitativos-QUANT-DOLAR-TRADER.pdf))* | Case prático: aplicação de pressão de fluxo, Deltas, SMC OB e VWAP dinâmica |
 
 ---
 
